@@ -4,6 +4,8 @@ I have built a Machine learning Regression model for determining the bulldozer p
 
 The data is used from the competition held in 2012 on Kaggle: https://www.kaggle.com/c/bluebook-for-bulldozers/data
 
+The Data is downloaded and unzipped in a folder named 'data' in the working directory
+
 The Library used is Scikit Learn.
 The model used is RandomForestRegressor
 
